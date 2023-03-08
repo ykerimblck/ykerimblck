@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-**ykerimblck/ykerimblck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ykerimblck is my ✨ _special_ ✨ repository 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on programming
@@ -10,6 +9,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram: ykerimblck / Gmail : ykerimbulacak@gmail.com
 - ⚡ Fun fact: I like coding and play volleyball
 All of my projects are available at https://github.com/ykerimblck
+All of my documents are available at https://medium.com/@ykerimblck
+
+==> These are the shortcuts of my accounts ^,^
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&[https://github.com/ykerimblck](https://github.com/ykerimblck)=https://github.com/ykerimblck)]() 
