@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: Instagram: ykerimblck / Gmail : ykerimbulacak@gmail.com
 - ⚡ Fun fact: I like coding and play volleyball
-All of my projects are available at https://github.com/ykerimblck
-All of my documents are available at https://medium.com/@ykerimblck
+- All of my documents are available at https://medium.com/@ykerimblck
 
 ==> These are the shortcuts of my accounts ^,^
 
