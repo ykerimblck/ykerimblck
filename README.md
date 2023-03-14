@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB0000&center=YANLI%C5%9E&vCenter=YANLI%C5%9E&repeat=YANLI%C5%9E&width=435&lines=Yusuf+Kerim+bulacak)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E60000&center=YANLI%C5%9E&vCenter=YANLI%C5%9E&repeat=YANLI%C5%9E&width=435&lines=Full-Stack+Web+And+App+Developer;IOS+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E60000&center=YANLI%C5%9E&vCenter=YANLI%C5%9E&repeat=do%C4%9Fru&width=435&lines=Full-Stack+Web+And+App+Developer;IOS+Developer)](https://git.io/typing-svg)
+
 
 
 
