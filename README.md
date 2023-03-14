@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Yusuf+Kerim+bulacak;.Net+Developer;%C4%B0os+Developer)](https://git.io/typing-svg)
+
+
 ### Hi there 👋
 
 ykerimblck is my ✨ _special_ ✨ repository 
