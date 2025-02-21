@@ -1,11 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB0000&center=YANLI%C5%9E&vCenter=YANLI%C5%9E&repeat=YANLI%C5%9E&width=435&lines=Yusuf+Kerim+bulacak)](https://git.io/typing-svg)
 
-
-
-
-
-
 ### Hi there 👋
+
+I'm a .Net Developer
 
 ykerimblck is my ✨ _special_ ✨ repository 
 Here are some ideas to get you started:
